@@ -1,0 +1,8 @@
+catboost
+cryptography
+fastapi
+numpy
+pandas
+shap
+uvicorn
+
